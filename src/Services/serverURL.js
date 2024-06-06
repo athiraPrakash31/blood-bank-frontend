@@ -1,0 +1,1 @@
+export const serverURL = "https://blood-bank-backend-dm01.onrender.com"
